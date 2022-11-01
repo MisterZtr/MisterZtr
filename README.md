@@ -4,7 +4,7 @@
 
 </div>
     <div align="center">
-    <img src="https://github.com/MisterZtr/MisterZtr/blob/main/assets/1.gif"> -->
+    <img src="https://github.com/MisterZtr/MisterZtr/blob/main/assets/1.gif">
       </div>
 <div>
 <h2 align="center">  ~ About me ~  </h2>
