@@ -1,16 +1,42 @@
-### Hi there 👋
+<body>
+  <center>
+<h1 align="center">~ Welcome to my Profile ~</h1>
 
-<!--
-**MisterZtr/MisterZtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+    <div align="center">
+    <img src="https://github.com/MisterZtr/MisterZtr/blob/main/assets/1.gif"> -->
+      </div>
+<div>
+<h2 align="center">  ~ About me ~  </h2>
+  <div align="center">
+<img width="180px" height="320px" src="https://github.com/MisterZtr/MisterZtr/blob/main/assets/799827.jpg" align="right">
+  </div>
+<li>
+ <b>Name:</b> Andrew</li>
+<li>
+<b>Nick:</b> MisterZtr
+</li>
+<li>
+<b>Loves:</b> anime, rhythm games
+</li>
+<li>
+<b>Gender:</b> he/Male
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Android Building
+</li>
+<li>
+<b>Working:</b> Own WebSite
+</li>
+<br><br><br>
+</div>
+<div>
+<h2 align="center"> ~ Thanks for reading! ~ </h2>
+<div align="center">
+<img src="https://github.com/MisterZtr/MisterZtr/blob/main/assets/be3a7233f7dac57923fd6fec2d40ad10.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
