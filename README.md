@@ -9,7 +9,7 @@
 <div>
 <h2 align="center">  ~ About me ~  </h2>
   <div align="center">
-<img width="180px" height="259px" src="https://github.com/MisterZtr/MisterZtr/blob/main/assets/799827.jpg" align="right">
+<img width="180px" height="237px" src="https://github.com/MisterZtr/MisterZtr/blob/main/assets/799827.jpg" align="right">
   </div>
 <li>
  <b>Name:</b> Andrew</li>
