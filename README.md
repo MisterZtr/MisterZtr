@@ -25,9 +25,6 @@
 <li>
 <b>Hobbys:</b> Tech Stuff, Android Building
 </li>
-<li>
-<b>Working:</b> Own WebSite
-</li>
 <br><br><br>
 </div>
 <div>
