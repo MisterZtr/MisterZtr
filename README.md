@@ -23,7 +23,7 @@
 <b>Gender:</b> he/Male
 </li>
 <li>
-<b>Hobbys:</b> Anime gatherings, building a recovery and using innovative technologies
+<b>Hobbys:</b> Building a recovery and using innovative technologies
 </li>
 <br><br><br>
 </div>
