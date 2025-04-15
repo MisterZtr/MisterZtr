@@ -17,13 +17,13 @@
 <b>Nick:</b> MisterZtr
 </li>
 <li>
-<b>Loves:</b> Anime, Call of Duty Warzone, MSI, Realme and Ugreen
+<b>Loves:</b> Anime, Zenless Zone Zero, MSI, Realme and Ugreen
 </li>
 <li>
 <b>Gender:</b> he/Male
 </li>
 <li>
-<b>Hobbys:</b> Building a recovery and using innovative technologies
+<b>Hobbys:</b> Repair of computer devices, build android and recovery
 </li>
 <br><br><br>
 </div>
